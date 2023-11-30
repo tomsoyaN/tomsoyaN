@@ -4,7 +4,7 @@
 
 |key|value|
 |-------|--------|
-|Twitter|[@Tom_SoyaS](https://twitter.com/eng_toshiaki)|
+|Twitter|[@Tom_SoyaS](https://twitter.com/Tom_SoyaS)|
 |Linkedin|[profile](https://www.linkedin.com/in/%E5%89%B5%E7%9F%A2-%E9%87%8E%E4%B8%AD-9841421b1/)|
 
 ## 職歴
