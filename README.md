@@ -15,7 +15,8 @@
   - 2022- Digittle
     - web3サービス開発、テックリード 
   - 2023- CARTA HOLDINGS
-  　-　内定者インターン 
+  　-　内定者インターン
+  - 2024 CARTA HOLDINGS
 ## 作成物
  - [主にここに載ってる](https://smoothie-slide.com/Cos5year)
 ## 受賞
